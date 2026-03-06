@@ -32,6 +32,7 @@ This document demonstrates:
 - structured analytical writing
 - supply chain domain knowledge
 - ability to communicate operational concepts to non-specialists
+
 ## Document
 
 📄 **PDF version (recommended)**  
