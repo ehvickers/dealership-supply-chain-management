@@ -1,11 +1,13 @@
 # Supply Chain Management in Automotive Dealership Operations
 
-![Supply Chain Diagram](images/dealership-supply-chain.png)
-
 # Supply Chain Management in Automotive Dealership Operations
 
 **Author:** Edward Vickers  
 **Date:** March 3, 2026  
+
+**Read the paper (PDF)**  
+[The Rold of Supply Chain Management in a Car Dealership](the-role-of-supply-chain-management-in-a-car-dealership.pdf)
+
 
 ## Overview
 
