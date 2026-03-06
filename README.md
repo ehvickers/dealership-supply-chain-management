@@ -4,8 +4,11 @@
   <img src="images/dealership-supply-chain.png" width="400">
 </a>
 
-**Author:** Edward Vickers  
-**Date:** March 3, 2026  
+| Document | Supply Chain Management in Automotive Dealership Operations |
+|----------|-------------------------------------------------------------|
+| Author   | Edward Vickers |
+| Date     | March 3, 2026 |
+| Type     | Technical White Paper |
 
 **Read the paper (PDF)**  
 [The Rold of Supply Chain Management in a Car Dealership](the-role-of-supply-chain-management-in-a-car-dealership.pdf)
@@ -20,22 +23,21 @@ Although dealerships are commonly perceived as retail organizations,
 they coordinate vehicle allocation, service parts logistics, supplier
 relationships, and financial risk management through floorplan financing.
 
-## Key Topics
-
-- Vehicle distribution networks
-- Dealership parts logistics
-- Inventory forecasting and demand management
-- Supply chain risk management
-- Financial metrics (GMROII, inventory turnover)
+| Topics Covered |
+|----------------|
+| Vehicle distribution networks |
+| Dealership parts logistics |
+| Inventory forecasting |
+| Supply chain risk management |)
 
 ## Skills Demonstrated
 
-This document demonstrates:
-
-- technical explanation of complex systems
-- structured analytical writing
-- supply chain domain knowledge
-- ability to communicate operational concepts to non-specialists
+| Skill | Description |
+|------|-------------|
+| Technical Writing | Explaining complex supply chain systems clearly |
+| Systems Thinking | Analysis of logistics and operational workflows |
+| Industry Knowledge | Automotive dealership operations |
+| Analytical Writing | Structured explanation of risk and financial metrics |
 
 ## Document
 
