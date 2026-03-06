@@ -1,3 +1,7 @@
+# Supply Chain Management in Automotive Dealership Operations
+
+![Supply Chain Diagram](images/dealership-supply-chain.png)
+
 ## Overview
 
 Automobile dealerships are commonly perceived as retail sales organizations, but they also function as complex logistics hubs. Dealership operations coordinate vehicle allocation, service parts logistics, supplier relationships, and financial risk management through floorplan financing.
