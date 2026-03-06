@@ -2,21 +2,37 @@
 
 ![Supply Chain Diagram](images/dealership-supply-chain.png)
 
+# Supply Chain Management in Automotive Dealership Operations
+
+**Author:** Edward Vickers  
+**Date:** March 3, 2026  
+
 ## Overview
 
-Automobile dealerships are commonly perceived as retail sales organizations, but they also function as complex logistics hubs. Dealership operations coordinate vehicle allocation, service parts logistics, supplier relationships, and financial risk management through floorplan financing.
+This white paper explains how automobile dealerships function as supply chain
+distribution nodes within the automotive manufacturing ecosystem.
 
-This paper provides a practical overview of supply chain management (SCM) within dealership operations.
+Although dealerships are commonly perceived as retail organizations,
+they coordinate vehicle allocation, service parts logistics, supplier
+relationships, and financial risk management through floorplan financing.
 
-## Topics Covered
+## Key Topics
 
 - Vehicle distribution networks
 - Dealership parts logistics
 - Inventory forecasting and demand management
-- Risk management in supply chains
-- Financial metrics such as GMROII and inventory turnover
+- Supply chain risk management
+- Financial metrics (GMROII, inventory turnover)
 
-## Read the Paper
+## Skills Demonstrated
+
+This document demonstrates:
+
+- technical explanation of complex systems
+- structured analytical writing
+- supply chain domain knowledge
+- ability to communicate operational concepts to non-specialists
+## Document
 
 📄 **PDF version (recommended)**  
 [Download the paper](the-role-of-supply-chain-management-in-a-car-dealership.pdf)
