@@ -22,6 +22,6 @@ This paper provides a practical overview of supply chain management (SCM) within
 [Download the paper](the-role-of-supply-chain-management-in-a-car-dealership.pdf)
 
 ✏️ Editable version  
-[Word document](The%20Role%20of%20Supply%20Chain%20Management%20in%20a%20Car%20Dealership.docx)
+[Word document](the-role-of-supply-chain-management-in-a-car-dealership.docx)
 
 
