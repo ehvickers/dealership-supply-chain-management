@@ -1,5 +1,9 @@
 # Supply Chain Management in Automotive Dealership Operations
 
+<a href="images/dealership-supply-chain.png">
+  <img src="images/dealership-supply-chain.png" width="400">
+</a>
+
 **Author:** Edward Vickers  
 **Date:** March 3, 2026  
 
