@@ -1,7 +1,5 @@
 # Supply Chain Management in Automotive Dealership Operations
 
-# Supply Chain Management in Automotive Dealership Operations
-
 **Author:** Edward Vickers  
 **Date:** March 3, 2026  
 
