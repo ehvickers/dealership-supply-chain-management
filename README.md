@@ -19,4 +19,4 @@ This document was written as a technical overview for students interested in sup
 
 Download the paper here:
 
-[Supply Chain Management in a Car Dealership](The%20Role%20of%20Supply%20Chain%20Management%20in%20a%20Car%20Dealership.docx)
+[Supply Chain Management in a Car Dealership](the-role-of-supply-chain-management-in-a-car-dealership.pdf)
