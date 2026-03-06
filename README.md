@@ -1,8 +1,10 @@
 # Supply Chain Management in Automotive Dealership Operations
 
-  <p align="center">
-  <img src="images/dealership-supply-chain.png" width="300">
-  </p>
+<p align="center">
+  <a href="images/dealership-supply-chain.png">
+    <img src="images/dealership-supply-chain.png" width="450">
+  </a>
+</p>
 
 
 | Document | Supply Chain Management in Automotive Dealership Operations |
